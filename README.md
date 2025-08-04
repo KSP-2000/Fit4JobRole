@@ -1,4 +1,4 @@
-# 🧠 Fit4JobRole – Resume-Based Job Role Matcher
+# Fit4JobRole – Resume-Based Job Role Matcher
 
 **Fit4JobRole** is a smart, resume-based job finder that helps users match their resume skills with real-time job descriptions from sources like **Microsoft Careers**, **Naukri.com**.
 
@@ -26,7 +26,8 @@ It helps users discover roles they’re qualified for and highlights the missing
 
 ---
 
-**Why This Project?**
+## Why This Project?
+
 Most job seekers apply blindly to jobs. This tool helps:
 - Find roles you actually qualify for
 - Discover what skills you’re missing
@@ -34,8 +35,9 @@ Most job seekers apply blindly to jobs. This tool helps:
 
 ---
 
-**Limitations & Future Work**
-- Matching is currently based on keyword comparison, not deep NLP and as if now more keywords can improve matching efficiency
+## Limitations & Future Work
+
+- Matching is currently based on keyword comparison, not deep NLP and as for now more keywords can improve matching efficiency
 - Scoring logic can be improved using AI/LLMs
 
 ---
