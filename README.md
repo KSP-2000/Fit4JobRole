@@ -1,4 +1,4 @@
-# Fit4JobRole – Resume-Based Job Role Matcher
+# Fit4JobRole – Get Matched to the Right Job
 
 **Fit4JobRole** is a smart, resume-based job finder that helps users match their resume skills with real-time job descriptions from sources like **Microsoft Careers**, **Naukri.com**.
 
@@ -57,6 +57,8 @@ streamlit run main.py
 ```
 
 
-**Made by**
+## Made by
+
 Kelothu Shivaprasad
+
 Aspiring Software Developer
