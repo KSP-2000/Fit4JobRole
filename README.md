@@ -60,5 +60,14 @@ streamlit run main.py
 ## Made by
 
 Kelothu Shivaprasad
-
 Aspiring Software Developer
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational and personal use only**.  
+Please ensure that your usage complies with the **terms of service** of any external websites or platforms you interact with.  
+The author is **not responsible for any misuse or legal issues** that arise from improper use of this project.
+
+
